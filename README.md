@@ -56,4 +56,4 @@ Here the full message is displayed. At the top is the username and photo of the 
 
 **Page 10 – My Profile**
 
-This will contain all the information in Profile Page (pages 7 & 8) but will an edit button and the ability to edit.
+This will contain all the information in Profile Page (pages 7 & 8) but with an edit button and the ability to edit.
